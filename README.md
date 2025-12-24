@@ -23,7 +23,7 @@
 ⚡ Fun fact: I enjoy learning by building and improving projects step by step.
 
 🌐 Socials:
-Instagram Medium X [YouTube](https://youtube.com/@sonu shah)
+Instagram Medium X [YouTube](https://youtube.com/)
 
 💻 Tech Stack:
 C Java Python Swift HTML5 Firebase MySQL MongoDB Adobe Creative Cloud Adobe Lightroom Classic GitHub
